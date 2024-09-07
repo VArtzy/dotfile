@@ -1,0 +1,4 @@
+# Shift-Enter: Right (accept the suggestion)
+"\e[27;5;13~":  win-cursor-forward
+# Ctrl-Enter: Right + Enter (accept the suggestion and hit enter to execute)
+"\e[27;2;13~":  "\e[C\r"
