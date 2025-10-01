@@ -1,0 +1,12 @@
+[window]
+decorations = "Buttonless"
+opacity = 0.5
+blur = true
+startup_mode = "SimpleFullscreen"
+decorations_theme_variant = "Dark"
+dynamic_padding = true
+padding = { x = 3, y = 3 }
+
+[font]
+normal = { family = "SauceCodePro Nerd Font", style = "Regular" }
+size = 14
