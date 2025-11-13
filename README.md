@@ -1,1 +1,1 @@
-# MacOS, Windows and Linux dotfiles
+# MacOS, Windows and (arch)Linux dotfiles
